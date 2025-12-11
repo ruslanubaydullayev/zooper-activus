@@ -26,22 +26,22 @@
 const links = [
   {
     name: "Twitter",
-    url: "https://twitter.com/fayazara",
+    url: "https://x.com/R2712Ruslan",
     icon: "mdi:twitter",
   },
   {
     name: "GitHub",
-    url: "https://github.com/fayazara",
+    url: "https://github.com/ruslanubaydullayev",
     icon: "mdi:github",
   },
   {
     name: "Linkedin",
-    url: "https://www.linkedin.com/in/fayaz-aralikatti/",
+    url: "https://www.linkedin.com/in/ruslan-ubaydullayev-a2974221a/",
     icon: "mdi:linkedin",
   },
   {
     name: "Telegram",
-    url: "https://t.me/fayazara",
+    url: "https://t.me/activus",
     icon: "mdi:telegram",
   },
 ];
