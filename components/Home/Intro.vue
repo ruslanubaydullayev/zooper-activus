@@ -24,7 +24,7 @@
 
 <script setup>
 useSeoMeta({
-  title: "Ruslan Ubaydullayev",
+  title: "activus.uz | portfolio",
   description:
     "I'm Ruslan, your friendly neighborhood software, product engineer and designer from Tashkent, Uzbekistan. I specialize in building web applications and sites using Javascript, Vue.",
 });
