@@ -1,0 +1,8 @@
+{
+    "name": "Internet Bank for Businness",
+    "url": "http://business.ipakyulibank.uz",
+    "description": "This is place, i'm currently working on it. It is a web application for business customers to manage their accounts and transactions. It is built with Vuejs (3), Tailwindcss",
+    "thumbnail": "/projects/ipak.ico",
+    "status": "Active"
+  }
+  
